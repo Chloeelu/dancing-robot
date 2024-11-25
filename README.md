@@ -69,7 +69,7 @@ Once the setup is complete, the robot can be controlled via the LCD interface, a
 
 Yixi Lu - yixilu445@gmail.com
 
-Project Link: [https://github.com/Chloeelu/GYM-Database-Management-System/tree/main]
+Project Link: [https://github.com/Chloeelu/dancing-robot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
